@@ -1,7 +1,7 @@
 # serial-master-slave-arduino
 Código de ejemplo en Arduino que permite recibir comandos por medio del puerto Serial y traducirlos a comandar actuadores o leer información de sensores y reenviarla por el mismo puerto Serial. A continuación se presenta la arquitectura utilizada:
 
-![alt text](https://github.com/tidusdavid/serial-master-slave-arduino/tree/master/recursos/arquitectura.png)
+![alt text](https://raw.githubusercontent.com/tidusdavid/serial-master-slave-arduino/master/recursos/arquitectura.png)
 
 ## Requisitos
 
