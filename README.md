@@ -3,7 +3,7 @@ Código de ejemplo en Arduino que permite recibir comandos por medio del puerto 
 
 ## Requisitos
 
-* [Arduino UNO](http://www.arduino.org/products/boards/arduino-uno) or [Arduino Mega](https://www.arduino.cc/en/Main/arduinoBoardMega) if using WiFi101 Shield.
+* [Arduino UNO](http://www.arduino.org/products/boards/arduino-uno) or [Arduino Mega](https://www.arduino.cc/en/Main/arduinoBoardMega).
 * [Arduino IDE 1.8.3 or higher](https://www.arduino.cc/en/Main/Software).
 
 ## Comandos Seriales
